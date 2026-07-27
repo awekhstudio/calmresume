@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://awekhstudio.github.io/calmresume/sitemap.xml
