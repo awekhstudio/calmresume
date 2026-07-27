@@ -2,9 +2,7 @@
 
 > A calm and minimal HTML resume template for thoughtful professionals.
 
-## Cover image
-
-The final `preview/calmresume-cover.jpg` release image is pending. See the [preview asset guide](preview/README.md) for the exact filenames and recommended dimensions. It is intentionally not embedded here to avoid a broken image before publication.
+![CalmResume cover preview](preview/calmresume-cover.jpg)
 
 ## Live demo
 
